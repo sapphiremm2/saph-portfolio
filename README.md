@@ -2,15 +2,13 @@
 
 **Live:** [saph.one](https://saph.one) · **Source:** private
 
-saph is a link-in-bio platform I built for myself and my sister ([@fwnsie](https://www.tiktok.com/@fwnsie), ~25k TikTok followers). It started as a weekend "Linktree clone" and grew into a full multi-user creator hub — per-page theming, live integrations with YouTube / TikTok / Roblox / Spotify / Discord, a URL shortener with QR codes, edge-rendered rich embeds, and first-class analytics.
+saph is a link-in-bio platform I built for myself. It started as a weekend "Linktree clone" and grew into a full multi-user creator hub — per-page theming, live integrations with YouTube / TikTok / Roblox / Spotify / Discord, a URL shortener with QR codes, edge-rendered rich embeds, and first-class analytics.
 
 This is a case study of how it's built. The source code is kept private but the architecture, tech choices, and interesting engineering problems are all here.
 
 ---
 
 ## Screenshots
-
-> _Add your own screenshots here — drop them in `./screenshots/` and reference them below._
 
 | Public page | Admin panel | Rich Discord embed |
 |---|---|---|
